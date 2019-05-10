@@ -1,0 +1,34 @@
+{
+    "components":[
+        {
+            "name":"Engine",
+            "description":"This is engine",
+            "location":"./models/spitfire/engine.gltf.glb"
+        },   		
+   		{
+            "name":"Wings",
+            "description":"These are wings",
+            "location":"./models/spitfire/wings.gltf.glb"
+   		},
+   		{
+            "name":"Body",
+            "description":"This is the body",
+            "location":"./models/spitfire/body.gltf.glb"
+        },   		
+   		{
+            "name":"cockpit",
+            "description":"This is the cockpit",
+            "location":"./models/spitfire/cockpit.gltf.glb"
+   		},
+   		{
+            "name":"Guns",
+            "description":"These are guns",
+            "location":"./models/spitfire/guns.gltf.glb"
+        },   		
+   		{
+            "name":"Tail",
+            "description":"This is the tail",
+            "location":"./models/spitfire/tail.gltf.glb"
+   		}
+    ]
+}

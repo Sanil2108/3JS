@@ -1,0 +1,19 @@
+{
+  "name": "creatingScene",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "three": "^0.104.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  },
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

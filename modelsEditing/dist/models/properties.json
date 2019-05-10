@@ -1,0 +1,9 @@
+{
+    "components":[
+        {
+            "name":"Engine",
+            "description":"This is engine",
+            "location":"./models/spitfire/engine.gltf.glb"
+        }
+    ]
+}
